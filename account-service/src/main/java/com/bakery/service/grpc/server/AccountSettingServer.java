@@ -4,7 +4,6 @@ import com.bakery.account.proto.UserSettingRequest;
 import com.bakery.account.proto.UserSettingResponse;
 import com.bakery.account.proto.UsersSettingServiceGrpc;
 import com.bakery.service.service.UserSettingService;
-import com.sadlier.lms.account.proto.GetApplicationSettingResponse;
 import io.grpc.stub.StreamObserver;
 import lombok.extern.log4j.Log4j2;
 import net.devh.boot.grpc.server.service.GrpcService;
